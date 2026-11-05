@@ -40,18 +40,7 @@ The implementation includes:
 6. Hidden-state reconstruction.
 7. Quantitative performance evaluation using RMSE, MAE, and MAPE.
 
-## Repository Structure
 
-```text
-tb-pinn-parameter-estimation/
-├── notebooks/
-├── data/
-├── figures/
-├── results/
-├── README.md
-├── requirements.txt
-└── LICENSE
-```
 
 ## Requirements
 
